@@ -1,5 +1,5 @@
 <div align="left"> 
-   <a href="https://www.linkedin.com/in/ashutosh-kumar-1363b0162/" target="_blank">
+   <a href="https://www.linkedin.com/in/anurag-srivastava007/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>    
    </a>
@@ -10,29 +10,29 @@
 
  
 ### Hi there 👋
-I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Blockchain, NFT, Data Science and Machine Learning.
+I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development,Python ,Django , Data Science and Machine Learning.
 
 ### Things I'm good at 🔥
-Languages: Python, JavaScript, Solidity, Rust  
+Languages: Python, JavaScript,Perl
 Programming skills : Datastructure and Algorithm, Regular expression. 
 Database : mysql, mongodb.  
-Libraries & Framework: Node.js, Nest.js, Express.js, Next.js, React js, web3, socket.io, React Native, GraphQL, SQL, HTML, CSS, Bootstrap, tailwind.
+Libraries & Framework: Django, Node.js,React js, GraphQL, SQL, HTML, CSS, Bootstrap, tailwind.
 
 <div align="left">
  
-### I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Blockchain Developer. A huge Blockchain enthusiast.
+### I am a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python and Django Developer. 
 
 ###  👨🏻‍💻 About Me :
 
  
 
-- #### 🌱 I’m currently exploring **Hyperledger Fabric**.
+- #### 🌱 I’m currently exploring **Machine Learning**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
-- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-1363b0162)
+- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-srivastava007/)
 - #### 🏢 *Open to opportunities*
 - #### 😄 Pronouns: He/Him
-- #### ⚡ Favorite Anime: Steins;Gate
+- #### ⚡ Favorite Anime: Death notes,
 
 </div>
 
