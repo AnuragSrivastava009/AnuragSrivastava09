@@ -41,17 +41,17 @@ Libraries & Framework: Django, Node.js,React js, GraphQL, SQL, HTML, CSS, Bootst
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp; -->
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" title="Rust"  alt="Rust" width="40" height="40"/>&nbsp;
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" title="solidty"  alt="solidty" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/59333826?s=48&v=4" title="Cairo"  alt="Cairo" width="40" height="40"/>&nbsp;
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="cplusplus"  alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/36739222?s=48&v=4" title="Web3"  alt="Web3" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4" title="Ether"  alt="Ether" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" title="Truffle"  alt="Truffle" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/38917137?s=48&v=4" title="Hardhat"  alt="Hardhat" width="40" height="40"/>&nbsp;
-  <img  src="https://avatars.githubusercontent.com/u/55598990?s=48&v=4" title="locklift"  alt="locklift" width="40" height="40"/>&nbsp;
+<!--   <img  src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" title="Rust"  alt="Rust" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" title="solidty"  alt="solidty" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://avatars.githubusercontent.com/u/59333826?s=48&v=4" title="Cairo"  alt="Cairo" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="cplusplus"  alt="cplusplus" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://avatars.githubusercontent.com/u/36739222?s=48&v=4" title="Web3"  alt="Web3" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4" title="Ether"  alt="Ether" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" title="Truffle"  alt="Truffle" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://avatars.githubusercontent.com/u/38917137?s=48&v=4" title="Hardhat"  alt="Hardhat" width="40" height="40"/>&nbsp; -->
+<!--   <img  src="https://avatars.githubusercontent.com/u/55598990?s=48&v=4" title="locklift"  alt="locklift" width="40" height="40"/>&nbsp; -->
   
   
 
