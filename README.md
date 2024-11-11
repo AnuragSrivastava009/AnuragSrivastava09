@@ -85,18 +85,8 @@ Libraries & Framework: Django, Node.js,React js, GraphQL, SQL, HTML, CSS, Bootst
 </div>
 </div>
 
-### Blockchain Network:
 
-<div>
- <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" title="Ethereum"  width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/32770468?s=200&v=4" title="Binance"  width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/101595416?s=48&v=4" title="Starknet"  width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/34857411?s=200&v=4" title="Tron"  width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" title="Solana"  width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/39875327?s=200&v=4" title="Ever"  width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/wVENOM/logo.svg" title="Venom"  width="40" height="40"/>&nbsp;
- <img src="https://avatars.githubusercontent.com/u/66309068?s=200&v=4" title="Venom"  width="40" height="40"/>&nbsp;
-</div>
+
 
 <table align="center" >
  <tr  >
