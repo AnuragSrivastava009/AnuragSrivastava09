@@ -87,7 +87,7 @@ Libraries & Framework: Django, Node.js,React js, GraphQL, SQL, HTML, CSS, Bootst
 
 
 
-
+<!--
 <table align="center" >
  <tr  >
   <td colspan="2" align="center" > 
@@ -101,6 +101,6 @@ Libraries & Framework: Django, Node.js,React js, GraphQL, SQL, HTML, CSS, Bootst
      <img  src="https://github-readme-stats.vercel.app/api?username=Ashutoshpython123&show_icons=true&locale=en" alt="Ashutoshpython123" />
     </td>
   </tr>
-</table>
+</table>-->
 
 <!--START_SECTION:activity-->
